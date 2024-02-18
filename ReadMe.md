@@ -3,5 +3,4 @@ login.html
 run 'npm install' this command to install node modules
 
 cards.html
-
 ![Screenshot 2024-02-18 at 13-53-33 Document](https://github.com/DasunDK/TailwindCss-Lgin-and-card/assets/98402154/e18cc140-1854-4eb5-a68c-f4303cfe6514)
